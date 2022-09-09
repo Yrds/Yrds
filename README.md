@@ -25,6 +25,6 @@ my site
 
 #### Old Projects(Archived)
 
-- [Tiktok Downloader and compilation bot](https://github.com/Yrds/compilation-bot) - NodeJS
+- [Tiktok Downloader and compilation bot](https://github.com/Yrds/compilation-bot) - NodeJS, Puppeteer, PostgreSQL(Knex)
 - [ScoreBing Crawler](https://github.com/Yrds/crawler-scorebing) - NodeJS, Puppeteer and SQLite
 
