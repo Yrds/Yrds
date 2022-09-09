@@ -17,9 +17,14 @@ I'm a Web Full Stack Developer but I like to play with other types of technologi
 
 - [📫 E-mail](mailto:yrds96@protonmail.com)
 - [🧑‍💼 Linkedin](https://www.linkedin.com/in/yuri-rodrigo-santos-68449ab9/)
+<!--
+TODO
+my blog
+my site
+-->
 
 #### Old Projects(Archived)
 
-[Tiktok Downloader and compilation bot](https://github.com/Yrds/compilation-bot) - NodeJS
-[ScoreBing Crawler](https://github.com/Yrds/crawler-scorebing) - NodeJS, Puppeteer and SQLite
+- [Tiktok Downloader and compilation bot](https://github.com/Yrds/compilation-bot) - NodeJS
+- [ScoreBing Crawler](https://github.com/Yrds/crawler-scorebing) - NodeJS, Puppeteer and SQLite
 
