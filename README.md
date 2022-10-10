@@ -8,8 +8,7 @@ I'm a Web Full Stack Developer but I like to play with other types of technologi
 #### What I'm doing now
 
 - Working as a contractor Full Stack Developer on [Santa Luzia Labs](https://www.sluzia.com.br/)
-  - PHP&Wordpress(Plugins and Theming), NodeJS, Angular, Webpack, Linux Administration.
-- [Authdeez](https://github.com/Yrds/authdeez) - An Experimental HOTP/TOTP Authenticator (C++)
+  -  Angular, Material Design, RxJS, Webpack, Linux Administration, PHP&Wordpress(Plugins and Theming), NodeJS.
 - Maintaining [blender-lts-bin](https://aur.archlinux.org/packages/blender-lts-bin) on [AUR](https://aur.archlinux.org/)
 
 #### Contact (Portuguese and English)
@@ -26,4 +25,4 @@ my site
 
 - [Tiktok Downloader and compilation bot](https://github.com/Yrds/compilation-bot) - NodeJS, Puppeteer, PostgreSQL(Knex)
 - [ScoreBing Crawler](https://github.com/Yrds/crawler-scorebing) - NodeJS, Puppeteer and SQLite
-
+- [Authdeez](https://github.com/Yrds/authdeez) - An Experimental HOTP/TOTP Authenticator (C++)
