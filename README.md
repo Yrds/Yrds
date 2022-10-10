@@ -9,8 +9,7 @@ I'm a Web Full Stack Developer but I like to play with other types of technologi
 
 - Working as a contractor Full Stack Developer on [Santa Luzia Labs](https://www.sluzia.com.br/)
   - PHP&Wordpress(Plugins and Theming), NodeJS, Angular, Webpack, Linux Administration.
-- [Gallery One](https://github.com/Yrds/gallery-one) - A framework agnostic simple to use image gallery (Typescript)
-- [Authdeez](https://github.com/Yrds/authdeez) - An HOTP/TOTP Authenticator (C++)
+- [Authdeez](https://github.com/Yrds/authdeez) - An Experimental HOTP/TOTP Authenticator (C++)
 - Maintaining [blender-lts-bin](https://aur.archlinux.org/packages/blender-lts-bin) on [AUR](https://aur.archlinux.org/)
 
 #### Contact (Portuguese and English)
