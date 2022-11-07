@@ -8,7 +8,9 @@ I'm a Web Full Stack Developer but I like to play with other types of technologi
 #### What I'm doing now
 
 - Working as a contractor Full Stack Developer on [Santa Luzia Labs](https://www.sluzia.com.br/)
-  -  Angular, Material Design, RxJS, Webpack, Linux Administration, PHP&Wordpress(Plugins and Theming), NodeJS.
+  - Angular, Material Design, RxJS, Webpack, Linux Administration, PHP&Wordpress(Plugins and Theming), NodeJS.
+- Writing my new blog platform, [cppaper](https://github.com/Yrds/cppaper)
+  - C++20
 - Maintaining [blender-lts-bin](https://aur.archlinux.org/packages/blender-lts-bin) on [AUR](https://aur.archlinux.org/)
 
 #### Contact (Portuguese and English)
