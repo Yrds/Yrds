@@ -13,6 +13,11 @@ I'm a Web Full Stack Developer but I like to play with other types of technologi
   - C++20
 - Maintaining [blender-lts-bin](https://aur.archlinux.org/packages/blender-lts-bin) on [AUR](https://aur.archlinux.org/)
 
+#### My config files can be found here
+
+- [Dotfiles](https://github.com/Yrds/dotfiles)
+- [Snippets(UltiSnippets for (n)vim)](https://github.com/Yrds/dotfiles)
+
 #### Contact (Portuguese and English)
 
 - [📫 E-mail](mailto:yrds96@protonmail.com)
