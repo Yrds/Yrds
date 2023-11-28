@@ -4,6 +4,7 @@
 
 I'm a Web Full Stack Developer but I like to play with other types of technologies and contribute to Open Source projects in my free time.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrds)](https://github.com/anuraghazra/github-readme-stats)
 
 #### What I'm doing now
 
