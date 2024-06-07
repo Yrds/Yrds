@@ -1,30 +1,36 @@
-### Hi there 👋
-
-#### About me
+Hi there 👋
+About me
 
 I'm a Web Full Stack Developer but I like to play with other types of technologies and contribute to Open Source projects in my free time.
 
+Top Langs
 
-#### What I'm doing now
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-- Working as a contractor Full Stack Developer on [Santa Luzia Labs](https://www.sluzia.com.br/)
-  - PHP&Wordpress(Plugins and Theming), NodeJS, Angular, Webpack, Linux Administration.
-- [Gallery One](https://github.com/Yrds/gallery-one) - A framework agnostic simple to use image gallery (Typescript)
-- [Authdeez](https://github.com/Yrds/authdeez) - An HOTP/TOTP Authenticator (C++)
-- Maintaining [blender-lts-bin](https://aur.archlinux.org/packages/blender-lts-bin) on [AUR](https://aur.archlinux.org/)
+What I'm doing now
 
-#### Contact (Portuguese and English)
+- Software Engineer at Brodway Media
+- Full Stack Developer at @proxify-ab
+- Working as a contractor Full Stack Developer on Santa Luzia Labs
+  - Angular, Material Design, RxJS, Webpack, Linux Administration, PHP&Wordpress(Plugins and Theming), NodeJS.
+- Sometimes in my very very free time, I like to make games.
 
-- [📫 E-mail](mailto:yrds96@protonmail.com)
-- [🧑‍💼 Linkedin](https://www.linkedin.com/in/yuri-rodrigo-santos-68449ab9/)
-<!--
-TODO
-my blog
-my site
--->
+AUR repositories
 
-#### Old Projects(Archived)
+- blender-lts-bin
 
-- [Tiktok Downloader and compilation bot](https://github.com/Yrds/compilation-bot) - NodeJS, Puppeteer, PostgreSQL(Knex)
-- [ScoreBing Crawler](https://github.com/Yrds/crawler-scorebing) - NodeJS, Puppeteer and SQLite
+My config files can be found here
 
+- Dotfiles
+- Snippets(UltiSnippets for (n)vim)
+
+Contact (Portuguese and English)
+
+- 📫 E-mail
+- 🧑‍💼 Linkedin
+
+Old Projects(Archived)
+
+- Tiktok Downloader and compilation bot - NodeJS, Puppeteer, PostgreSQL(Knex)
+- ScoreBing Crawler - NodeJS, Puppeteer and SQLite
+- Authdeez - An Experimental HOTP/TOTP Authenticator (C++)
