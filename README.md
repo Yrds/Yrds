@@ -9,7 +9,7 @@ Top Langs
 
 What I'm doing now
 
-- Software Engineer at Brodway Media
+- Typescript developer at @FlatFilers
 - Full Stack Developer at @proxify-ab
 - Working as a contractor Full Stack Developer on Santa Luzia Labs
   - Angular, Material Design, RxJS, Webpack, Linux Administration, PHP&Wordpress(Plugins and Theming), NodeJS.
